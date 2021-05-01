@@ -1,4 +1,4 @@
-# Floating-Action-Menu
+# Floating-Action-Menu (Deprecated)
 Floating action menu is a library allowing easily integrate fully customizable FloatingActionButton menu.
 # Screenshots
 
